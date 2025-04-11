@@ -1,0 +1,5 @@
+title: "Mi sitio con Just the Docs"
+theme: "just-the-docs"
+
+# Opcional: configura la URL base si tu sitio no está en un custom domain
+url: "https://ximenaasantiagoo.github.io"
